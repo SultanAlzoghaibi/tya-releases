@@ -1,0 +1,74 @@
+TyA — Proprietary Software License
+Copyright (c) 2026 Sultan Alzoghaibi. All Rights Reserved.
+
+This repository and its contents (the "Software"), including all release
+binaries, installers, archives, signatures, update manifests, and
+documentation, are the proprietary and confidential property of Sultan
+Alzoghaibi (the "Licensor"). The Software is licensed, not sold.
+
+1. GRANT OF LICENSE
+   Subject to your full and continuing compliance with this License, the
+   Licensor grants you a single, personal, limited, non-exclusive,
+   non-transferable, non-sublicensable license, revocable by the Licensor at
+   any time and for any reason, to:
+     (i)  download and install one copy of the official TyA application
+          binaries on devices that you own or control, for your own personal
+          use only; and
+     (ii) receive updates through the application's built-in update mechanism.
+   This is the entire grant. No other use is permitted. The Licensor may
+   modify, suspend, or discontinue the Software, the update service, or this
+   License, in whole or in part, at any time without notice or liability.
+
+2. RESTRICTIONS
+   You may NOT, in whole or in part:
+   (a) copy, reproduce, republish, mirror, or redistribute the Software or its
+       binaries to any third party or location;
+   (b) sell, rent, lease, lend, host, or otherwise make the Software available
+       to others, whether for a fee or free of charge;
+   (c) reverse engineer, decompile, disassemble, or otherwise attempt to
+       derive the source code, structure, or signing keys of the Software,
+       except to the limited extent such activity is expressly permitted by
+       applicable law notwithstanding this restriction;
+   (d) modify, adapt, translate, or create derivative works of the Software;
+   (e) remove, alter, or obscure any copyright, trademark, or proprietary
+       notices;
+   (f) circumvent, disable, or tamper with any signature verification, update,
+       licensing, or security mechanism;
+   (g) use the Software to build, train, or develop a competing product.
+
+3. OWNERSHIP
+   The Licensor retains all right, title, and interest in and to the Software,
+   including all intellectual property rights. No rights are granted except as
+   expressly set out in this License. All rights not expressly granted are
+   reserved.
+
+4. NO OPEN SOURCE
+   The Software is closed source. No source code is provided, and nothing in
+   this License shall be construed as a grant of access to source code.
+
+5. TERMINATION
+   This License terminates automatically and immediately if you breach any of
+   its terms. Upon termination you must cease all use of the Software and
+   destroy all copies in your possession or control. Sections 2, 3, 6, and 7
+   survive termination.
+
+6. NO WARRANTY
+   THE SOFTWARE IS PROVIDED "AS IS" AND "AS AVAILABLE", WITHOUT WARRANTY OF ANY
+   KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
+   MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE, AND
+   NON-INFRINGEMENT. THE LICENSOR DOES NOT WARRANT THAT THE SOFTWARE WILL BE
+   UNINTERRUPTED, SECURE, OR ERROR-FREE.
+
+7. LIMITATION OF LIABILITY
+   TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, IN NO EVENT SHALL THE
+   LICENSOR BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, OR
+   PUNITIVE DAMAGES, OR ANY LOSS OF PROFITS, DATA, OR GOODWILL, ARISING OUT OF
+   OR IN CONNECTION WITH THE SOFTWARE OR THIS LICENSE, WHETHER IN CONTRACT,
+   TORT, OR OTHERWISE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+
+8. GENERAL
+   This License constitutes the entire agreement regarding the Software and
+   supersedes all prior understandings. If any provision is held unenforceable,
+   the remaining provisions remain in full force and effect.
+
+For licensing inquiries, contact the Licensor.

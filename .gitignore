@@ -1,0 +1,125 @@
+# =============================================================================
+# TyA Releases — artifact store only.
+# This repo holds Tauri release binaries + the updater manifest, NOT source.
+# Source files for EVERY language are ignored on purpose so they can never be
+# committed here by accident. Release artifacts and docs are kept (negated).
+# =============================================================================
+
+# ---- Source code: ignore everything, all languages ----
+# Rust
+*.rs
+# TypeScript / JavaScript
+*.ts
+*.tsx
+*.js
+*.jsx
+*.mjs
+*.cjs
+*.vue
+*.svelte
+# Go
+*.go
+# Python
+*.py
+*.pyw
+*.pyi
+*.pyc
+*.pyo
+# C / C++ / Objective-C
+*.c
+*.h
+*.cc
+*.cpp
+*.cxx
+*.hpp
+*.hh
+*.m
+*.mm
+# C#
+*.cs
+# Java / Kotlin / Scala
+*.java
+*.kt
+*.kts
+*.scala
+# Swift
+*.swift
+# Ruby
+*.rb
+# PHP
+*.php
+# Shell / scripting
+*.sh
+*.bash
+*.zsh
+*.fish
+*.ps1
+*.bat
+*.cmd
+# Other languages
+*.dart
+*.lua
+*.pl
+*.r
+*.jl
+*.ex
+*.exs
+*.erl
+*.clj
+*.hs
+*.ml
+*.zig
+*.nim
+
+# ---- Build tooling / project manifests (belong in the source repo) ----
+Cargo.toml
+Cargo.lock
+package.json
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
+tsconfig*.json
+go.mod
+go.sum
+requirements.txt
+pyproject.toml
+src-tauri/
+node_modules/
+target/
+dist/
+build/
+
+# ---- OS / editor cruft ----
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
+
+# ---- Secrets — NEVER commit signing keys ----
+*.key
+*.pem
+*_private.*
+.env
+.env.*
+
+# =============================================================================
+# Keep these (they are intentionally tracked despite the rules above).
+# Release artifacts, signatures, the updater manifest, and docs.
+# =============================================================================
+!latest.json
+!*.dmg
+!*.app.tar.gz
+!*.app.tar.gz.sig
+!*.msi
+!*.msi.zip
+!*.nsis.zip
+!*.exe
+!*.AppImage
+!*.deb
+!*.rpm
+!*.sig
+!README.md
+!CLAUDE.md
+!LICENSE.txt
+!.gitignore
